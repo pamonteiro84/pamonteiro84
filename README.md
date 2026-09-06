@@ -51,5 +51,5 @@ ML models for photovoltaic fault detection and classification (Python, Scikit-le
 - **[url_shortener](https://github.com/pamonteiro84/url_shortener)** — URL shortening service written in Go
 - **[ticketing_service](https://github.com/pamonteiro84/ticketing_service)** — Rust backend service exploring ticket/booking domain logic
 - **[feature_flags](https://github.com/pamonteiro84/feature_flags)** — Rust feature-flag service
-- **[dissertation_project](https://github.com/pamonteiro84/dissetation_project)** — Python scripting benchmarking ML Algorithms
+- **[dissertation_project](https://github.com/pamonteiro84/dissertation_project)** — Python scripting benchmarking ML Algorithms
 
