@@ -4,7 +4,8 @@ Software Engineer @ [Vestas](https://www.vestas.com) · Porto, Portugal
 
 I build backend systems and cloud-native services in **Rust**, with a background in **Machine Learning** research. Curious problem-solver who enjoys turning complex systems into reliable, high-performance software.
 
-- 🔭 Currently working on Simulation-as-a-Service backend systems and high-performance APIs in Rust
+- 🔭 Currently building event-driven microservices in Java for workflow orchestration
+- ⚙️ Previously worked on Simulation-as-a-Service backend systems and high-performance APIs in Rust
 - 🎓 MSc in Electrical and Computer Engineering — University of Porto (thesis on ML for photovoltaic fault detection)
 - 📄 Co-author of a published paper comparing LightGBM to other ML algorithms for PV fault classification (PESE 2023, Bratislava)
 - ☸️ Certified Kubernetes Administrator (CKA)
@@ -47,12 +48,8 @@ ML models for photovoltaic fault detection and classification (Python, Scikit-le
 
 ## 📌 Pinned projects
 
-*(update descriptions below to match the actual repos)*
-
+- **[url_shortener](https://github.com/pamonteiro84/url_shortener)** — URL shortening service written in Go
 - **[ticketing_service](https://github.com/pamonteiro84/ticketing_service)** — Rust backend service exploring ticket/booking domain logic
 - **[feature_flags](https://github.com/pamonteiro84/feature_flags)** — Rust feature-flag service
-- **[url_shortener](https://github.com/pamonteiro84/url_shortener)** — URL shortening service written in Go
+- **[dissertation_project](https://github.com/pamonteiro84/dissetation_project)** — Python scripting benchmarking ML Algorithms
 
----
-
-<sub>💬 Open to talk about Rust, backend architecture, or ML for industrial applications.</sub>
