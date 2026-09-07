@@ -44,12 +44,4 @@ CI/CD pipelines and Dockerfiles for multi-cluster Kubernetes deployments; built 
 **Research Assistant @ INESC TEC** *(09/2022 – 02/2023)*
 ML models for photovoltaic fault detection and classification (Python, Scikit-learn, TensorFlow, PyTorch) — part of my MSc thesis.
 
----
-
-## 📌 Pinned projects
-
-- **[url_shortener](https://github.com/pamonteiro84/url_shortener)** — URL shortening service written in Go
-- **[ticketing_service](https://github.com/pamonteiro84/ticketing_service)** — Rust backend service exploring ticket/booking domain logic
-- **[feature_flags](https://github.com/pamonteiro84/feature_flags)** — Rust feature-flag service
-- **[dissertation_project](https://github.com/pamonteiro84/dissertation_project)** — Python scripting benchmarking ML Algorithms
 
