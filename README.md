@@ -1,20 +1,20 @@
-# Hi, I'm Paulo Martins Monteiro 👋
+# Hi, I'm Paulo Martins Monteiro 
 
 Software Engineer @ [Vestas](https://www.vestas.com) · Porto, Portugal
 
 I build backend systems and cloud-native services in **Rust**, with a background in **Machine Learning** research. Curious problem-solver who enjoys turning complex systems into reliable, high-performance software.
 
-- 🔭 Currently building event-driven microservices in Java for workflow orchestration
-- ⚙️ Previously worked on Simulation-as-a-Service backend systems and high-performance APIs in Rust
-- 🎓 MSc in Electrical and Computer Engineering — University of Porto (thesis on ML for photovoltaic fault detection)
-- 📄 Co-author of a published paper comparing LightGBM to other ML algorithms for PV fault classification (PESE 2023, Bratislava)
-- ☸️ Certified Kubernetes Administrator (CKA)
-- 🌱 Always learning — currently deepening my Rust and cloud-native skills
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/paulomartinsmonteiro/) or at paulo.a.martins.monteiro@gmail.com
+- Currently building event-driven microservices in Java for workflow orchestration
+- Previously worked on Simulation-as-a-Service backend systems and high-performance APIs in Rust
+- MSc in Electrical and Computer Engineering — University of Porto (thesis on ML for photovoltaic fault detection)
+- Author of a published paper comparing LightGBM to other ML algorithms for PV fault classification (PESE 2023, Bratislava)
+- Certified Kubernetes Administrator (CKA)
+- Always learning and currently deepening my Java and cloud-native skills
+- Reach me on [LinkedIn](https://www.linkedin.com/in/paulomartinsmonteiro/) or at paulo.a.martins.monteiro@gmail.com
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Runtimes**
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -33,7 +33,7 @@ I build backend systems and cloud-native services in **Rust**, with a background
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Software Engineer @ Vestas** *(04/2024 – Present)*
 Backend systems and microservices in Rust (Tokio, Poem, SeaORM) for Simulation-as-a-Service, cloud-native deployments on Kubernetes/Azure, and full-stack feature work in TypeScript/Vue.js;
