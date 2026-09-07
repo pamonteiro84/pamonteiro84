@@ -36,7 +36,8 @@ I build backend systems and cloud-native services in **Rust**, with a background
 ## 💼 Experience
 
 **Software Engineer @ Vestas** *(04/2024 – Present)*
-Backend systems and microservices in Rust (Tokio, Poem, SeaORM) for Simulation-as-a-Service, cloud-native deployments on Kubernetes/Azure, and full-stack feature work in TypeScript/Vue.js.
+Backend systems and microservices in Rust (Tokio, Poem, SeaORM) for Simulation-as-a-Service, cloud-native deployments on Kubernetes/Azure, and full-stack feature work in TypeScript/Vue.js;
+Currently developing Java microservices with Spring Boot and Kafka as part of an event-driven architecture, handling asynchronous communication between services.
 
 **Software Engineer Trainee @ Vestas** *(04/2023 – 04/2024)*
 CI/CD pipelines and Dockerfiles for multi-cluster Kubernetes deployments; built a Rust CLI for internal service automation.
